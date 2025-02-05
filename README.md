@@ -99,7 +99,7 @@ Agora, vamos definir as relações entre as tabelas de acordo com as especifica�
 - **Pedido** 1---1 **Entrega**  
   Cada pedido tem uma única entrega associada.
 
-### Tabela de Relacionamento (Pedido_Produto)
+### Tabela de Relacionamento (Item_Pedido)
 
 Para o relacionamento N:N entre **Pedido** e **Produto**, criamos uma tabela de relacionamento:
 
